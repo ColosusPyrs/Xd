@@ -32,3 +32,20 @@ C:\Users\Josue\Desktop\Tarea 5.1 (Lenguaje de programación)\Xd\Xd\obj\Debug\Xd.
 C:\Users\Josue\Desktop\Tarea 5.1 (Lenguaje de programación)\Xd\Xd\obj\Debug\Xd.csproj.CoreCompileInputs.cache
 C:\Users\Josue\Desktop\Tarea 5.1 (Lenguaje de programación)\Xd\Xd\obj\Debug\Xd.exe
 C:\Users\Josue\Desktop\Tarea 5.1 (Lenguaje de programación)\Xd\Xd\obj\Debug\Xd.pdb
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\bin\Debug\Xd.exe.config
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\bin\Debug\Xd.exe
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\bin\Debug\Xd.pdb
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcInicio.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcHaron.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.Calc2doGrado.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcEneCinPot.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcPotEle.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcIntLeyCou.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.CalcPenRec.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.Properties.Resources.resources
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.csproj.GenerateResource.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.exe
+C:\Users\Josue\Desktop\Programación\C#\Tareas\UASD\Xd\Xd\obj\Debug\Xd.pdb

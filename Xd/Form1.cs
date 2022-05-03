@@ -69,5 +69,11 @@ namespace Xd
             CalcPenRec CalcPR = new CalcPenRec();
             CalcPR.Show();
         }
+
+        int borrar;
+
+        /*
+         * Este comentario se puede quitar, solo es para practicar con el Github.
+         */
     }
 }
